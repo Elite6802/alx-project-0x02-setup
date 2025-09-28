@@ -1,5 +1,5 @@
 import React from 'react';
-import { CardProps } from '@/interfaces';
+import { type CardProps } from '@/interfaces';
 
 /**
  * A reusable Card component for displaying structured content with a clear title.
